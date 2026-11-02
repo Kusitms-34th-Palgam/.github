@@ -1,5 +1,5 @@
 # LG전자 x KUSITMS <img width="130" alt="PALGAM LOGO" src="https://github.com/user-attachments/assets/e1c235fa-beda-4cb0-ac19-40d6cde2b058" align="left"/>
-<h3><img valign="middle" src="https://img.shields.io/badge/PALGAM-A50034?style=flat" /> 트렌드 스카우팅 기반 AX 신사업 Seed 발굴 대시보드</h3>
+<h3>트렌드 스카우팅 기반 AX 신사업 Seed 발굴 대시보드</h3>
 
 <img width="1920" height="1080" alt="README 1" src="https://github.com/user-attachments/assets/9c8f05c7-a835-4bb8-ba32-a9e51cd3d39e" />
 <img width="2048" height="2898" alt="README 2" src="https://github.com/user-attachments/assets/f0fb6927-23be-4b70-9f82-dba1ea739aaf" />
